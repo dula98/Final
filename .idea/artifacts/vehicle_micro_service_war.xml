@@ -1,0 +1,16 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="vehicle_micro_service:war">
+    <output-path>$PROJECT_DIR$/Vehical Micro Service/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <exploded>false</exploded>
+        <module>vehicle_micro_service</module>
+        <packaging>war</packaging>
+        <unpackNestedArchives>false</unpackNestedArchives>
+      </options>
+    </properties>
+    <root id="archive" name="vehicle_micro_service-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="vehicle_micro_service:war exploded" />
+    </root>
+  </artifact>
+</component>

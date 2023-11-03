@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Final.iml" filepath="$PROJECT_DIR$/.idea/Final.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User Micro Service/User_Micro_Service.iml" filepath="$PROJECT_DIR$/User Micro Service/User_Micro_Service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Authenticate Micro Service/authenticate_micro_service.iml" filepath="$PROJECT_DIR$/Authenticate Micro Service/authenticate_micro_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Guide Micro Service/guide_micro_service.iml" filepath="$PROJECT_DIR$/Guide Micro Service/guide_micro_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hotel Micro Service/hotel_micro_service.iml" filepath="$PROJECT_DIR$/Hotel Micro Service/hotel_micro_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Travel Package Micro Service/travel_package_micro_service.iml" filepath="$PROJECT_DIR$/Travel Package Micro Service/travel_package_micro_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/User-Travel Package Micro Service/user_travel_package_micro_service.iml" filepath="$PROJECT_DIR$/User-Travel Package Micro Service/user_travel_package_micro_service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Vehical Micro Service/vehicle_micro_service.iml" filepath="$PROJECT_DIR$/Vehical Micro Service/vehicle_micro_service.iml" />
+    </modules>
+  </component>
+</project>
